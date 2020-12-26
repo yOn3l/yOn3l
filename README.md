@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi i am a junior programer in python
 
 <!--
 **yOn3l/yOn3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
